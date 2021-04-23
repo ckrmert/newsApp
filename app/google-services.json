@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506195592689",
+    "firebase_url": "https://appcentnews-default-rtdb.firebaseio.com",
+    "project_id": "appcentnews",
+    "storage_bucket": "appcentnews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506195592689:android:860861fd93cbda294d7050",
+        "android_client_info": {
+          "package_name": "com.tr.newsappcent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506195592689-0tr43f2r9g60sa76o289t101cj3j8sas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOTZpStiNY4K9dTAQxbQfc2HrO6Vtnz5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506195592689-0tr43f2r9g60sa76o289t101cj3j8sas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
